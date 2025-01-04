@@ -1,1 +1,1 @@
-Study DNA methylation data to classify patients into different risk categories for diseases like cancer. 
+Analyse transcriptomic data to classify patients into tumor or normal for cancer. 
